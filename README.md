@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Dinos and I work at the University of Florida in Enrollmenet Management.
+I'm here to fix problems--particularly the kind that in one way or another involve a keyboard.
 <!--
 **dinoswork/dinoswork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
