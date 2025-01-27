@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-My name is Dinos and I work at the University of Florida in Enrollment Management.
-I'm here to fix problems--particularly the kinds that usually involve a keyboard somewhere.
+My name is Dinos, and I work in Enrollment Management at the University of Florida.
+I'm here to fix problems—particularly those that involve a keyboard in one way or another.
 <!--
 **dinoswork/dinoswork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
